@@ -1,50 +1,29 @@
 ## 🚀 Yummy App
-
 This is a modern Meal Discovery Web App built as a front-end practice project.
 The application allows users to explore meals, search recipes, filter by categories and ingredients, and view detailed meal instructions.
 The project focuses on JavaScript DOM manipulation, API integration, and dynamic UI rendering, while maintaining a clean and responsive user interface.
 
 ## 🛠 Built With
-
 ✔️ HTML
-
 ✔️ CSS
-
 ✔️ JavaScript (Vanilla JS)
-
 ✔️ TheMealDB API
-
 ✔️ Bootstrap
-
 ✔️ Font Awesome
 
-
 ## 🎯 Key Features & Concepts Practiced
-
 ✔️ Dynamic data fetching using TheMealDB API
-
 ✔️ DOM manipulation using Vanilla JavaScript
-
 ✔️ Search functionality (by name and by first letter)
-
 ✔️ Filter meals by categories
-
 ✔️ Filter meals by area (country)
-
 ✔️ Filter meals by ingredients
-
 ✔️ Display full meal details page
-
 ✔️ Form validation for contact section
-
 ✔️ Loading screen implementation
-
 ✔️ Responsive layout for different screen sizes
-
 ✔️ Clean UI with smooth user interactions
-
 ✔️ Modular JavaScript functions for better code organization
-
 ✔️ Event handling and interactive UI behavior
 
 ## 🧠 Architecture Approach
