@@ -18,6 +18,7 @@ The project focuses on JavaScript DOM manipulation, API integration, and dynamic
 
 ✔️ Font Awesome
 
+
 ## 🎯 Key Features & Concepts Practiced
 
 ✔️ Dynamic data fetching using TheMealDB API
