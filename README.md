@@ -61,9 +61,6 @@ The project focuses on JavaScript DOM manipulation, API integration, and dynamic
 ## 🌐 Live Preview
 🔗 https://mkandil4.github.io/YUMMY-App/
 
-## 💻 Source Code
-🔗 https://github.com/MKandil4/YUMMY-App
-
 ## 📁 Project Structure
 YUMMY-App/
 ├── index.html
